@@ -31,6 +31,15 @@ Welcome to my GitHub profile! I'm passionate about building efficient and scalab
 ### ⚡ Fun fact:
 I'm always up for a challenge, whether it's debugging code or trying out a new tech stack!
 
+### 📊 GitHub Stats:
+![PedroGalindo0911's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGalindo0911&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGalindo0911&layout=compact&theme=radical)
+
+### 🔥 My Contribution Graph:
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroGalindo0911&theme=github)
+
 ---
 
 Feel free to explore my repositories and don't hesitate to reach out if you're interested in collaborating or just want to chat about tech!
+
