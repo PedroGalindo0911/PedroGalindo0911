@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about building efficient and scalab
 
 ### 🌱 What I'm currently working on:
 - Integrating third-party APIs (like Twilio) with Odoo for seamless communication solutions.
-- Developing a detailed car service website using React, Vite, and Tailwind CSS.
+- Developing a Star Wars website using React, Vite, and Tailwind CSS.
 
 ### 👯 I'm looking to collaborate on:
 - Open-source projects that focus on web development and cloud solutions.
